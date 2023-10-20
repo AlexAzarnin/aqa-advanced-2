@@ -1,4 +1,4 @@
-const averageGrade = 95;
+const averageGrade = 90;
 let result;
 
 switch (true) {
