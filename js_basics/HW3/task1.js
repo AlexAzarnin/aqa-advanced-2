@@ -1,4 +1,4 @@
-const averageGrade = 55;
+const averageGrade = 65;
 
 if (averageGrade < 60) {
     console.log("Unsatisfactory");
